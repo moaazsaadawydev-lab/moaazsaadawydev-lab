@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/moaazsaadawydev-lab">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=435&lines=Backend+Developer;Node.js+%2F+NestJS+Expert;Python+Developer;Database+Architect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=435&lines=Backend+Engineer;Node.js+%2F+NestJS;Database+Architect" alt="Typing SVG" />
   </a>
 </p>
 
@@ -50,7 +50,6 @@ I am a passionate and results-driven **Backend Software Engineer** dedicated to 
     </td>
     <td valign="top">
       • PostgreSQL<br>
-      • MySQL<br>
       • MongoDB<br>
       • Redis (Caching)
     </td>
