@@ -1,4 +1,6 @@
-# Hi there, I'm Moaz Saadawy 👋
+<h1 align="center">
+  Hi there, I'm Moaz Saadawy <img src="https://raw.githubusercontent.com/夾/夾/main/wave.gif" width="30px">
+</h1>
 
 <p align="center">
   <a href="https://github.com/moaazsaadawydev-lab">
