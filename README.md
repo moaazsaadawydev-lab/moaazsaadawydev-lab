@@ -45,8 +45,8 @@ I am a passionate and results-driven **Backend Software Engineer** dedicated to 
     <td valign="top">
       • Node.js<br>
       • NestJS<br>
-      • Express.js<br>
-      • FastAPI / Django
+      <!-- • Express.js<br>
+      • FastAPI / Django -->
     </td>
     <td valign="top">
       • PostgreSQL<br>
