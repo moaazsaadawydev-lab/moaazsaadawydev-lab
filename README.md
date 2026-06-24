@@ -58,7 +58,7 @@ I am a passionate and results-driven **Backend Software Engineer** dedicated to 
       • Git & GitHub<br>
       • Docker<br>
       • Linux / WSL<br>
-      • REST & GraphQL
+      • RestAPI
     </td>
   </tr>
 </table>
