@@ -94,10 +94,10 @@ I am a passionate and results-driven **Backend Software Engineer** dedicated to 
 
 ### 📈 GitHub Metrics & Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=moaazsaadawydev-lab&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=2EA043&text_color=C9D1D9" alt="Moaz's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moaazsaadawydev-lab&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9" alt="Top Languages" width="48%" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moaazsaadawydev-lab&theme=dark&background=0D1117&fire=39D353&ring=2EA043&title=39D353&stroke=0D1117" alt="GitHub Streak" width="97%" />
