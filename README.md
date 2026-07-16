@@ -46,12 +46,12 @@ I am a passionate and results-driven **Backend Software Engineer** dedicated to 
       • Node.js<br>
       • NestJS<br>
       • Express.js<br>
-      • FastAPI / Django
     </td>
     <td valign="top">
       • PostgreSQL<br>
       • MySQL<br>
       • MongoDB<br>
+      • Mongoose<br>
       • Redis (Caching)
     </td>
     <td valign="top">
