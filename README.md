@@ -74,13 +74,14 @@
 
 <div align="center">
 
-[![Moaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moaazsaadawydev-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/moaazsaadawydev-lab)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moaazsaadawydev-lab&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/moaazsaadawydev-lab)
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=moaazsaadawydev-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moaazsaadawydev-lab&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moaazsaadawydev-lab&theme=tokyonight&hide_border=true)](https://github.com/moaazsaadawydev-lab)
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=moaazsaadawydev-lab&theme=tokyonight&hide_border=true" width="97%" />
 
 </div>
-
 ---
 
 ### 🤝 Let's Connect!
