@@ -1,121 +1,95 @@
-# Hi there, I'm Moaz Saadawy 👋
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/moaazsaadawydev-lab">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=435&lines=Backend+Engineer;Node.js+%2F+NestJS;Database+Architect" alt="Typing SVG" />
-  </a>
-</p>
+# 🚀 Hey there, I'm Moaz Saadawy! 👋
+### **Backend Software Engineer & Distributed Systems Enthusiast**
 
----
+[![GitHub followers](https://img.shields.io/github/followers/moaazsaadawydev-lab?label=Follow&style=social)](https://github.com/moaazsaadawydev-lab)
+[![Email](https://img.shields.io/badge/Email-moaazsaadawy.dev%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:moaazsaadawy.dev@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=moaazsaadawydev-lab&color=007ec6&style=flat-square)](https://github.com/moaazsaadawydev-lab)
 
-### 🚀 About Me
+<br/>
 
-I am a passionate and results-driven **Backend Software Engineer** dedicated to building highly scalable, secure, and optimized server-side applications. With deep expertise in modern JavaScript/TypeScript ecosystems and Python, I specialized in designing robust system architectures, efficient RESTful APIs, and high-performance database schemas.
+> *"Crafting scalable, high-performance backend systems, distributed architectures, and robust APIs with clean code and modern engineering practices."*
 
-- 🧠 Currently deep-diving into **Advanced Microservices Patterns** and **System Architecture**.
-- 🛠️ I love solving complex algorithmic problems and optimizing database queries.
-- ⚡ Fun fact: I enjoy understanding computer hardware down to the transistor logic gates!
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🌟 About Me
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <strong>Languages</strong>
-    </td>
-    <td align="center" width="25%">
-      <strong>Frameworks & Runtimes</strong>
-    </td>
-    <td align="center" width="25%">
-      <strong>Databases & Caching</strong>
-    </td>
-    <td align="center" width="25%">
-      <strong>Tools & DevOps</strong>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      • JavaScript (ES6+)<br>
-      • TypeScript<br>
-      • Python<br>
-      • SQL / NoSQL
-    </td>
-    <td valign="top">
-      • Node.js<br>
-      • NestJS<br>
-      • Express.js<br>
-    </td>
-    <td valign="top">
-      • PostgreSQL<br>
-      • MySQL<br>
-      • MongoDB<br>
-      • Mongoose<br>
-      • Redis (Caching)
-    </td>
-    <td valign="top">
-      • Git & GitHub<br>
-      • Docker<br>
-      • Linux / WSL<br>
-      • REST & GraphQL
-    </td>
-  </tr>
-</table>
+- 💻 **Backend Engineer**: Passionate about designing distributed systems, microservices architectures, and resilient database layers.
+- 🏗️ **Core Focus**: High concurrency, event-driven designs, asynchronous messaging, and clean system design patterns.
+- 🛠️ **Environment**: Linux/Ubuntu WSL power-user with a tailored VS Code / Cursor setup.
+- 🎯 **Continuous Learner**: Exploring low-level system mechanics, reverse engineering, and advanced software architecture patterns.
+- 📬 **Get in Touch**: [moaazsaadawy.dev@gmail.com](mailto:moaazsaadawy.dev@gmail.com)
 
 ---
 
-### 💻 Technologies Visualized
+### 🛠️ Tech Stack & Tooling
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  
-  <!-- Back-end Frameworks -->
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=6DA55F" alt="ExpressJS" />
-  
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+<div align="left">
 
----
+#### **Languages & Core Runtimes**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=black&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 📈 GitHub Metrics & Analytics
+#### **Frameworks & Microservices**
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moaazsaadawydev-lab&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=2EA043&text_color=C9D1D9" alt="Moaz's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moaazsaadawydev-lab&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9" alt="Top Languages" width="48%" />
-</p> -->
+#### **Databases & Caching**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moaazsaadawydev-lab&theme=dark&background=0D1117&fire=39D353&ring=2EA043&title=39D353&stroke=0D1117" alt="GitHub Streak" width="97%" />
-</p>
+#### **DevOps, Tools & Systems**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
-### 📫 Connect with Me
+### 🧩 Architectural Patterns & Competencies
 
-<p align="left">
-  <a href="https://linkedin.com/in/moaz-saadawy-005993416" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:moaazsaadawy.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+- **Microservices & Messaging**: Event-Driven Architectures, RabbitMQ Message Brokers, gRPC Inter-Service Communication, Outbox Pattern.
+- **API Engineering**: RESTful APIs, WebSockets (Real-time bidirectional events), Stripe Webhook Integrations, Authentication & Authorization (JWT / RBAC).
+- **Data & Caching**: Database indexing, relational schema design, query optimization, Redis in-memory caching & session management.
 
-<p align="center">
-  <sub>🛡️ Built with precision by Moaz Saadawy. Let's build something amazing!</sub>
-</p>
+---
+
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=moaazsaadawydev-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Moaz's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moaazsaadawydev-lab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=moaazsaadawydev-lab&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+
+</div>
+
+---
+
+### 🤝 Let's Connect!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-moaazsaadawy.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moaazsaadawy.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-moaazsaadawydev--lab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moaazsaadawydev-lab)
+
+</div>
