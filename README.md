@@ -74,12 +74,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=moaazsaadawydev-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Moaz's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moaazsaadawydev-lab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+[![Moaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moaazsaadawydev-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/moaazsaadawydev-lab)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moaazsaadawydev-lab&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/moaazsaadawydev-lab)
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=moaazsaadawydev-lab&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moaazsaadawydev-lab&theme=tokyonight&hide_border=true)](https://github.com/moaazsaadawydev-lab)
 
 </div>
 
